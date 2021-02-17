@@ -2,7 +2,9 @@
   box-sizing: border-box;
   margin: auto;
 }
-
+.element{
+  margin: 5%; 
+}
 .element input[type="text"] {
   padding: 10px;
   font-size: 17px;
@@ -38,12 +40,13 @@
   color: white;
   font-size: 30px;
   padding: 20px;
-  border-radius: 15%;
+  border-radius:20px;
 }
 .header1 {
   text-align: center;
   background: gainsboro;
-  border-radius: 10%;
+  border-radius: 20px;
+  margin: 10px 0;
 }
 .h3 {
   text-decoration: underline;
